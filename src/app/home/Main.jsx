@@ -19,7 +19,7 @@ const Main = () => {
               enthusiasm, and focus. I possess a relentless drive to
               continuously learn and improve, always seeking to acquire new
               skills and stay on the cutting edge of technology. With a
-              proficiency in React, Vue.js, HTML5, and CSS3,Js ,Figma, Jquery
+              proficiency in React, Vue.js, HTML5, CSS3,Js ,Figma, Jquery
             </p>
             <p>
               I bring my technical and creative expertise to every project I
