@@ -35,11 +35,6 @@ const page = () => {
       websiteLink: "https://quiz-gamma-five.vercel.app/",
     },
     {
-      img: "/proj-7.jpeg",
-      projectSource: "https://github.com/Tripti2016/DiviiAssignment.git",
-      websiteLink: "https://divij.vercel.app/",
-    },
-    {
       img: "/proj-8.png",
       projectSource: "https://github.com/Tripti2016/bankist.git",
       websiteLink: "https://bankistprj.netlify.app/",
