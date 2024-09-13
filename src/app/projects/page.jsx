@@ -30,10 +30,10 @@ const page = () => {
       websiteLink: "https://notification-new.vercel.app/",
     },
     {
-      img: "/proj-5.jpeg",
-      projectSource: "https://github.com/Tripti2016/PracticeNews.git",
-      websiteLink: "https://practice-news.vercel.app/",
-    },
+            img: proImg7,
+            projectSource: "https://github.com/Tripti2016/context-api.git",
+            websiteLink: "https://context-api-inky.vercel.app/",
+        },
     {
       img: "/proj-6.jpeg",
       projectSource: "https://github.com/Tripti2016/Quiz.git",
