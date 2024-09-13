@@ -209,7 +209,7 @@ const page = () => {
                 <div className="tl-details-top">
                   <p className="tl-duration">Jan-2023- feb-2024</p>
                   <p>
-                    <span className="ui">Jr. UI devloper</span>
+                    <span className="ui">Jr. Frontend developer</span>
                     <span>Han river technology</span>
                   </p>
                 </div>
@@ -272,7 +272,7 @@ const page = () => {
                   <p className="tl-duration">Mar 2022- Sep 2022</p>
                   <p>
                     {" "}
-                    Intern <span className="ui">UI Designing</span>
+                    Intern <span className="ui">UI Designer</span>
                     <span>KDK Software</span>
                   </p>
                 </div>
