@@ -14,7 +14,7 @@ const page = () => {
         <div className="about-container">
           <div className="left-about">
             <h4>Information About Me</h4>
-            <p>"Hello, I'm Tripti Khandelwal, a dedicated Jr. Frontend Developer with over 1.5 years of experience in the IT industry. I worked as a Jr. Frontend at Han River Technology until February 2024, where I contributed to various projects and enhanced my technical expertise.</p>
+            <p>"Hello, I'm Tripti Khandelwal, a dedicated Jr. Frontend Developer with nearly 2 years of experience in the IT industry. I worked as a Jr. Frontend at Han River Technology until February 2024, where I contributed to various projects and enhanced my technical expertise.</p>
            
             <p>
               My journey into the tech world began with a 6-month internship in
