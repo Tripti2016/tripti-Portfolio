@@ -30,7 +30,7 @@ const page = () => {
       websiteLink: "https://notification-new.vercel.app/",
     },
     {
-            img: proImg7,
+            img: "/context-api.png",
             projectSource: "https://github.com/Tripti2016/context-api.git",
             websiteLink: "https://context-api-inky.vercel.app/",
         },
