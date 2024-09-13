@@ -14,12 +14,8 @@ const page = () => {
         <div className="about-container">
           <div className="left-about">
             <h4>Information About Me</h4>
-            <p>
-              "Hello, I'm Tripti Khandelwal, a dedicated Jr. frontend Developer at Han
-              River Technology since January 2023. I have been working in the IT
-              company as a UI Developer for the past 7 months, and during this
-              time, I have been actively enhancing my skills and expertise.
-            </p>
+            <p>"Hello, I'm Tripti Khandelwal, a dedicated Jr. Frontend Developer with over 1.5 years of experience in the IT industry. I worked as a Jr. Frontend at Han River Technology until February 2024, where I contributed to various projects and enhanced my technical expertise.</p>
+           
             <p>
               My journey into the tech world began with a 6-month internship in
               UI Developer/designer at KDK Software. Before venturing into web
@@ -177,19 +173,63 @@ const page = () => {
         </div>
         <div className="experience">
           <div className="timeLine">
+              <div className="timeLine-item">
+                <div className="timeLine-icon">
+                  <BsBriefcaseFill />
+                </div>
+                <div className="tl-details">
+                  <div className="tl-details-top">
+                    <p className="tl-duration">March-2024-Currently</p>
+                    <p>
+                      <span className="ui">Jr. Frontend Developer</span>
+                      <span>Freelancing</span>
+                    </p>
+                  </div>
+
+                  <p>
+                  Since March 2024, I’ve focused on mastering JavaScript and React through daily challenges on Codewars and HackerRank, improving my problem-solving skills. I've built projects like a Hulu clone app, using advanced React concepts and Context API for state management. Additionally, I've expanded my expertise in <u> Figma</u>, <u> Email-template</u> and <u>Tailwind CSS</u> , enhancing my design and development abilities through various case studies and projects.
+
+                  </p>
+                  <br />
+                  <p>
+                  In my freelancing journey, I offer services in frontend development, specializing in JavaScript, React, and UI/UX design using Figma and Tailwind CSS. I am confident that my dedication to continuous learning and my hands-on experience with real-world projects make me a valuable asset for any freelance project.
+                  </p>
+                  <br />
+                 
+                </div>
+              </div>
+            </div>
+
+          <div className="timeLine">
             <div className="timeLine-item">
               <div className="timeLine-icon">
                 <BsBriefcaseFill />
               </div>
               <div className="tl-details">
                 <div className="tl-details-top">
-                  <p className="tl-duration">Jan-2023- currently working</p>
+                  <p className="tl-duration">Jan-2023- feb-2024</p>
                   <p>
                     <span className="ui">Jr. UI devloper</span>
                     <span>Han river technology</span>
                   </p>
                 </div>
-
+ <p>
+                    I bring significant expertise in ReactJS, Vue.js, and static HTML projects. I am adept at managing
+                    complex designs, utilizing advanced CSS techniques such as grid, flexbox, positioning, and responsive
+                    pseudo-elements to create engaging web experiences.
+                  </p>
+                  <br />
+                  <p>
+                    My proficiency in React and Vue includes efficient routing management, dynamic accordion creation,
+                    and JavaScript function implementation. My comprehensive knowledge of HTML ensures well
+                    structured and semantic markup, promoting maintainability and performance.
+                  </p>
+                  <br />
+                  <p>
+                    I have a solid foundation in JavaScript, with experience in functions, DOM manipulation, and ES6
+                    features. In React and Vue, I excel in developing intricate designs using props, slots, and components,
+                    with a thorough understanding of hooks for effective state management and lifecycle handling.
+                  </p>
                 <p>
                   During my experience, I have actively contributed to diverse
                   projects, showcasing my proficiency in ReactJS, Vue.js, and
