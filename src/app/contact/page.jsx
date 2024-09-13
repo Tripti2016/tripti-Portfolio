@@ -31,14 +31,14 @@ const page = () => {
                     Location
                   </div>
 
-                  <p>: Bangalore, India</p>
+                  <p>: Cupertino, california</p>
                 </div>
                 <div className="contact-item">
                   <div className="icon">
                   <AiFillPhone />
                     Phone No
                   </div>
-                  <p>: +91 9980905142</p>
+                  <p>:+1 6503160240</p>
                 </div>
                 <div className="contact-item">
                   <div className="icon">
@@ -71,7 +71,7 @@ const page = () => {
                      <span>Language</span>
                   </div>
                   <p>
-                    <span>:English,Hindi</span>
+                    <span>:English</span>
                   </p>
                 </div>
               </div>
