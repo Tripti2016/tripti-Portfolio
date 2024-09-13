@@ -10,7 +10,7 @@ const page = () => {
       websiteLink: "https://managelanding-six.vercel.app/",
     },
     {
-            img: proImg4,
+            img: "/pro-1-1.png",
             projectSource: "https://github.com/Tripti2016/hulu-clone.git",
             websiteLink: "https://hulu-clone-seven-blond.vercel.app/",
         },
