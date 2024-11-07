@@ -180,15 +180,15 @@ const page = () => {
                 </div>
                 <div className="tl-details">
                   <div className="tl-details-top">
-                    <p className="tl-duration">March-2024-Currently</p>
+                    <p className="tl-duration">April-2024-Currently</p>
                     <p>
-                      <span className="ui">Jr. Frontend Developer</span>
+                      <span className="ui">UI DFesigner-Developer</span>
                       <span>Freelancing</span>
                     </p>
                   </div>
 
                   <p>
-                  Since March 2024, I’ve focused on mastering JavaScript and React through daily challenges on Codewars and HackerRank, improving my problem-solving skills. I've built projects like a Hulu clone app, using advanced React concepts and Context API for state management. Additionally, I've expanded my expertise in <u> Figma</u>, <u> Email-template</u> and <u>Tailwind CSS</u> , enhancing my design and development abilities through various case studies and projects.
+                  Since April 2024, I’ve focused on mastering JavaScript and React through daily challenges on Codewars and HackerRank, improving my problem-solving skills. I've built projects like a Hulu clone app, using advanced React concepts and Context API for state management. Additionally, I've expanded my expertise in <u> Figma</u>, <u> Email-template</u> and <u>Tailwind CSS</u> , enhancing my design and development abilities through various case studies and projects.
 
                   </p>
                   <br />
@@ -301,15 +301,7 @@ const page = () => {
                 </p>
               </div>
             </div>
-            <div className="btn-con">
-              <a
-                href="https://drive.google.com/file/d/1HVzz7JMfE49kf8yV3cmIKh8NvE5DLXcM/view?usp=sharing"
-                target="_blank"
-                className="main-btn"
-              >
-                <span className="btn-text">Internship-Certificate</span>
-              </a>
-            </div>
+           
           </div>
         </div>
       </section>
