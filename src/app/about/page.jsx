@@ -14,10 +14,10 @@ const page = () => {
         <div className="about-container">
           <div className="left-about">
             <h4>Information About Me</h4>
-            <p>"Hello, I'm Tripti Khandelwal, a dedicated Jr. Frontend Developer with nearly 2 years of experience in the IT industry. I worked as a Jr. Frontend at Han River Technology until February 2024, where I contributed to various projects and enhanced my technical expertise.</p>
+            <p>"Hello, I'm Tripti Khandelwal, a dedicated Jr. Frontend Developer with nearly 4 years of experience in the IT industry. My last work profile was as a Frontend Developer at Han River Technology until April 2024, where I contributed to various projects and enhanced my technical expertise.</p>
            
             <p>
-              My journey into the tech world began with a 6-month internship in
+              My journey into the tech world began with a aprox 1.5yr experience in
               UI Developer/designer at KDK Software. Before venturing into web
               development, I pursued Textile Designing from 2005 to 2008 and
               gained valuable experience as a Textile Merchandiser for 5 years
@@ -207,9 +207,9 @@ const page = () => {
               </div>
               <div className="tl-details">
                 <div className="tl-details-top">
-                  <p className="tl-duration">Jan-2023- feb-2024</p>
+                  <p className="tl-duration">Sep-2022- April-2024</p>
                   <p>
-                    <span className="ui">Jr. Frontend developer</span>
+                    <span className="ui"> Frontend developer</span>
                     <span>Han river technology</span>
                   </p>
                 </div>
@@ -269,10 +269,10 @@ const page = () => {
               </div>
               <div className="tl-details">
                 <div className="tl-details-top">
-                  <p className="tl-duration">Mar 2022- Sep 2022</p>
+                  <p className="tl-duration">June 2021- Sep 2022</p>
                   <p>
                     {" "}
-                    Intern <span className="ui">UI Designer</span>
+                   <span className="ui">UI Designer</span>
                     <span>KDK Software</span>
                   </p>
                 </div>
