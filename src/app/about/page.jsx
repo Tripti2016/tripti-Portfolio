@@ -17,12 +17,13 @@ const page = () => {
             <p>"Hello, I'm Tripti Khandelwal, a dedicated Jr. Frontend Developer with nearly 4 years of experience in the IT industry. My last work profile was as a Frontend Developer at Han River Technology until April 2024, where I contributed to various projects and enhanced my technical expertise.</p>
            
             <p>
-              My journey into the tech world began with a aprox 1.5yr experience in
+              My journey into the tech world began with a aprox 2yr experience in Han river technology 
+              as a Frontend developer and approx 1.5 yrs experience as
               UI Developer/designer at KDK Software. Before venturing into web
               development, I pursued Textile Designing from 2005 to 2008 and
               gained valuable experience as a Textile Merchandiser for 5 years
               (2008-2012). However, my passion for coding led me to invest the
-              last 2 years in continuous learning through platforms like
+              last 4 years in continuous learning through platforms like
               YouTube, Udemy, and free code certifications.
             </p>
             <p>
@@ -47,7 +48,7 @@ const page = () => {
               creating exceptional user experiences."
             </p>
             <div className="btn-con">
-              <a href="https://drive.google.com/file/d/1avcoCHyepKeGgliSSPQgZQ8YbMLWFLNp/view?usp=drive_link" target="_blank" className="main-btn">
+              <a href="https://drive.google.com/file/d/1rldGD7vciszmf_sdyJccDFfYkqsf1T8Z/view?usp=sharing"  target="_blank" className="main-btn">
                 <span className="btn-text">Download CV</span>
                 <span className="btn-icon">
                   <AiOutlineDownload />
