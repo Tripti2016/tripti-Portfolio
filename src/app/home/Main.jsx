@@ -30,7 +30,7 @@ const Main = () => {
               something extraordinary together!
             </p>
             <div className="btn-con">
-              <a href="https://drive.google.com/file/d/1avcoCHyepKeGgliSSPQgZQ8YbMLWFLNp/view?usp=drive_link" target="_blank" className="main-btn">
+              <a href="https://drive.google.com/file/d/1rldGD7vciszmf_sdyJccDFfYkqsf1T8Z/view?usp=sharing" target="_blank" className="main-btn">
                 <span className="btn-text">Download CV</span>
                 <span className="btn-icon">
                   <AiOutlineDownload />
